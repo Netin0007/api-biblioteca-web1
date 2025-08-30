@@ -19,8 +19,7 @@ Siga os passos abaixo para executar a aplicação localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    # Altere para a URL do seu repositório
-    git clone [https://github.com/SEU-USUARIO/api-biblioteca-web1.git](https://github.com/SEU-USUARIO/api-biblioteca-web1.git)
+    git clone [https://github.com/Netin0007/api-biblioteca-web1.git](https://github.com/Netin0007/api-biblioteca-web1.git)
     ```
 
 2.  **Acesse a pasta do projeto:**
