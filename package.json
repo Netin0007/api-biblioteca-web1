@@ -1,0 +1,23 @@
+{
+  "name": "api-biblioteca-web1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Netin0007/api-biblioteca-web1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Netin0007/api-biblioteca-web1/issues"
+  },
+  "homepage": "https://github.com/Netin0007/api-biblioteca-web1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
